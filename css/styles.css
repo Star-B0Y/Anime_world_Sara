@@ -22,7 +22,7 @@ hr{
 .top-container{
 width: 100%;
 position: relative;
-background-image: url('../images/top-container-background.png');
+background-image: url('/images/top-container-background.png');
 height: 80vh;
 text-align:center;
 font-size: 10rem;
