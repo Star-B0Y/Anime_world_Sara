@@ -1,0 +1,120 @@
+/******************************** tag selectors********************************/
+p{
+  margin: 0;
+  font-size: 1.5rem;
+}
+h1{font-size: 7rem;
+  font-family: 'Rajdhani', sans-serif;
+  text-align: center;
+  color: #393053;
+}
+
+h2{font-size: 4rem;
+  font-family: 'Rajdhani', sans-serif;
+  color: #393053;
+}
+hr{
+       height: 4px;
+       background-color: #ccc;
+       border: none;
+   }
+/******************************** class selectors**************************** */
+.top-container{
+width: 100%;
+position: relative;
+background-image: url('D:/My messss/Atom/Web Dev/Anime world/images/top_container_background.png');
+height: 80vh;
+text-align:center;
+font-size: 10rem;
+font-family: 'Tangerine', cursive;
+color: #91C8E4;
+}
+.chibi{
+  position: absolute;
+  left: 400px;
+  bottom: 0;
+  height: 400px;
+  vertical-align: bottom
+
+}
+
+ .middle-container{
+height: 20vh;
+ background-color: #749BC2;
+ font-family: 'Poiret One', cursive;
+ color:#F6F4EB;
+ font-size: 2rem;
+text-align: center;
+ }
+.anime1{
+  height: 15rem;
+  width: 13rem;
+}
+
+.anime2{
+  height: 15rem;
+  width: 13rem;
+}
+
+.anime3{
+  height: 15rem;
+  width: 13rem;
+}
+.anime-row{
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.anime1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.anime2{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+.anime3{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+ .bottom-container{
+  height: 190vh;
+background-color: #4682A9;
+font-family: 'Poiret One', cursive;
+color: #F6F4EB;
+ }
+
+ .middle_c{
+   font-size: 2rem;
+ }
+
+ .footer{
+   background-color:#F6F4EB;
+   height: 10vh;
+   text-align: center;
+ }
+
+ .footer-link{
+   display: inline-block;
+   color: #393053;
+   padding: 20px 20px ;
+ }
+
+ .copyright{
+   margin: auto;
+   padding: 25px 0;
+   color: #393053;
+   font-size: 1rem;
+ }
+
+ .love{
+   height: 2rem;
+ }
+
+/******************************** id selectors ********************************/
