@@ -22,7 +22,7 @@ hr{
 .top-container{
 width: 100%;
 position: relative;
-background-image: url('D:/My messss/Atom/Web Dev/Anime world/images/top_container_background.png');
+background-image: url('../images/top_container_background.png');
 height: 80vh;
 text-align:center;
 font-size: 10rem;
